@@ -46,22 +46,6 @@ The project follows a full end-to-end analytics workflow:
 - **Revenue vs profit mismatch** — Top revenue customer generates a net loss of $866 despite $10,524 in sales
 - **Long tail inefficiency** — 33 of 50 categories generate only 5% of total revenue
 
----
-
-## Repository Structure
-supply-chain-analysis-DATACO/
-│
-├── README.md
-│
-├── sql/
-│   ├── supply_chain_queries.sql      # 11 analytical queries
-│   └── supply_chain_views.sql        # vw_rfm, vw_abc, vw_supply_chain_master
-│
-├── python/
-│   └── datacocleaning.ipynb          # Full cleaning pipeline
-│
-└── data/
-└── data_source.md                # Dataset information and download link
 
 ---
 
@@ -116,7 +100,9 @@ KPI cards, monthly trends, geographic map, annual sales comparison
 **Dashboard 2 — Product Overview**
 Top 10 categories, top 10 products, ABC class and revenue per product search
 
-🔗 [View on Tableau Public](#) ← *replace with your actual link*
+![Supply Chain Dashboard](dashboard_preview.png)
+
+🔗 [View live interactive dashboard on Tableau Public](PASTE YOUR LINK HERE)
 
 ---
 
