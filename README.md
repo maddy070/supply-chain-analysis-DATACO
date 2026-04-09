@@ -125,4 +125,4 @@ Top 10 categories, top 10 products, ABC class and revenue per product search
 **Madhavan Padmanaban**  
 MSc Operations and Supply Chain Management — University of Liverpool  
 📧 madhavanmdv@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/maddy2801pad)
+🔗 [LinkedIn](https://linkedin.com/in/madhavanpadmanaban)
