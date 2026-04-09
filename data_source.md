@@ -11,7 +11,7 @@
 
 ## Why the CSV is not included
 
-The raw dataset exceeds GitHub's 100MB file size limit.
+The raw dataset exceeds GitHub's  file size limit.
 Please download it directly from Kaggle using the link above.
 
 ## Setup Instructions
