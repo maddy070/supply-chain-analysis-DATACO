@@ -102,7 +102,7 @@ Top 10 categories, top 10 products, ABC class and revenue per product search
 
 ![Supply Chain Dashboard](dashboard_preview.png)
 
-🔗 [View live interactive dashboard on Tableau Public][(PASTE YOUR LINK HERE)](https://public.tableau.com/app/profile/madhavan.padmanaban/viz/dataco_portfolio/Dashboard12)
+🔗 [View live interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/madhavan.padmanaban/viz/dataco_portfolio/Dashboard12)
 
 ---
 
